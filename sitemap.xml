@@ -12,7 +12,7 @@
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://yourusername.github.io/guru-ai-platform/#summarize</loc>
+        <loc>https://yourusername.github.io/guru-ai-platform/#summarizer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -27,19 +27,9 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://yourusername.github.io/guru-ai-platform/#translator</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
         <loc>https://yourusername.github.io/guru-ai-platform/#vision</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://yourusername.github.io/guru-ai-platform/#youtube</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://yourusername.github.io/guru-ai-platform/#pdfchat</loc>
@@ -47,7 +37,22 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://yourusername.github.io/guru-ai-platform/#mindmap</loc>
+        <loc>https://yourusername.github.io/guru-ai-platform/#password</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://yourusername.github.io/guru-ai-platform/#qrcode</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://yourusername.github.io/guru-ai-platform/#json</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://yourusername.github.io/guru-ai-platform/#pomodoro</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -57,13 +62,23 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://yourusername.github.io/guru-ai-platform/#tools</loc>
+        <loc>https://yourusername.github.io/guru-ai-platform/#mindmap</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://yourusername.github.io/guru-ai-platform/#jokes</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://yourusername.github.io/guru-ai-platform/#cloud</loc>
+        <loc>https://yourusername.github.io/guru-ai-platform/#quotes</loc>
         <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://yourusername.github.io/guru-ai-platform/#code</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 </urlset>
